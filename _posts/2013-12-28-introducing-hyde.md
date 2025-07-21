@@ -1,37 +1,82 @@
 ---
 layout: post
-title: Introducing Hyde
+title: Ryan S. - AccessDenied404
 ---
 
-Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a prominent sidebar with uncomplicated content. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+## Experience
+### Security engineer
+- Company: Taurus SA
+- position: Security engineer
+- Duration: 12/2022 - 
+- Summary: 
 
-### Built on Poole
+Development of smart contracts (Solidity) with Foundry, Hardhat and Truffle.
 
-Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by [@mdo](https://twitter.com/mdo). Poole, and every theme built on it (like Hyde here) includes the following:
+Analyze of smart contracts written in Solidity and SmartPy(Tezos)
 
-* Complete Jekyll setup included (layouts, config, [404](/404), [RSS feed](/atom.xml), posts, and [example page](/about))
-* Mobile friendly design and development
-* Easily scalable text and component sizing with `rem` units in the CSS
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
+Consultant for clients on issues related to Blockchain and smart contracts
 
-### Hyde features
+R&D in cross-chain bridges and new innovations in the field of blockchain (e.g. account abstraction)
 
-In addition to the features of Poole, Hyde adds the following:
+Several publications on the Taurus blog on Tokenization and cross-chain bridge (Chainlink CCIP)
 
-* Sidebar includes support for textual modules and a dynamically generated navigation with active link support
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/poole/lanyon#reverse-layout) (right sidebar), available via `<body>` classes
-* [Eight optional color schemes](https://github.com/poole/hyde#themes), available via `<body>` classes
+### Penetration Tester
+- company: Confidential
+- Position: Penetration Tester (external consultant / internship)
+- Duration: 10/2021 - 02/2022
+- Summary: Security audit in a software company carried out as part of a course at HEIG-VD, about 200 hours performed
 
-[Head to the readme](https://github.com/poole/hyde#readme) to learn more.
+## Education
 
-### Browser support
+### Bachelor of Science
 
-Hyde is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
+- Degree: Bachelor of Science - BS, Information security
+- Uni: HEIG-VD
+- Year: 2018 &mdash; 2022
+- Association: Co-Founder and Member of the Y-CTF Committee (CTF Club of HEIG-VD)
+- Summary: The IS orientation trains engineers with advanced skills in security to give them a global "attack-defence" vision of computer systems. These specialists analyse the security of complex computer systems (threat analysis and intrusion tests), design secure architectures, select and develop the appropriate protection measures.
+
+
+
+## Project
+
+### Smart contract
+
+#### CMTAT [Solidity]
+
+> Security token framework to tokenize financial instruments on Ethereum and EVM compatible blockchain.
+
+Project: CMTAT [Solidity]
+Role: Smart Contract Developer
+Duration: 2022 &mdash; Present
+url: https://github.com/CMTA/CMTAT
+
+**Skills:** Solidity · EVM · Ethereum
+
+#### Chainlink CCIP Sender [Solidity]
+> Study of the CCIP cross-chain bridge by Chainlink with the transfer of USDC between different blockchains as proof-of-concept
+
+Role: Smart Contract Developer
+Duration: 12/2023 &mdash; 05/2024
+Url: [https://github.com/taurushq-io/tg-bridge-contracts-CCIP](https://github.com/taurushq-io/tg-bridge-contracts-CCIP)
+Two articles were published on the Taurus blog, as well as a github project (Sender contract to interact with CCIP).
+
+**Skills:** Solidity · CCIP · Chainlink · cross-chain bridge · Stablecoin
+
+#### IncomeVault [Solidity]
+
+> IncomeVault to distribute dividend on-chain, build with CMTAT
+
+Role: Smart Contract Developer
+Duration: 12/2023 &mdash; 05/2024
+URL: "[https://github.com/CMTA/IncomeVault](https://github.com/CMTA/IncomeVault)"
+Publish a blog post on Taurus blog describing the architecture":" <a href="https://www.taurushq.com/blog/equity-tokenization-how-to-pay-dividend-on-chain-using-cmtat/">Equity Tokenization - How to Pay Dividend On-Chain Using CMTAT</a>
+
+**Skills:** Solidity · Smart Contracts · defi · Foundry · Stablecoin
 
 ### Download
 
-Hyde is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/hyde">GitHub repository</a> for downloads, bug reports, and features requests.
+ThiHyde is developed on and hosted with GitHub. Head to the <a href="https://github.com/poole/hyde">GitHub repository</a> for downloads, bug reports, and features requests.
 
 Thanks!
+
